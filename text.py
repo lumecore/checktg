@@ -1,6 +1,6 @@
 translations = {
     "ru": {
-        "menu.header": "CryonixSoft",
+        "menu.header": "LumeCore",
         "menu.title": "Меню чекера сессий",
         "menu.start_process": "[1] Запустить проверку сессий",
         "menu.change_language": "[2] Сменить язык",
@@ -77,7 +77,7 @@ translations = {
         "log.max_threads_updated": "Количество потоков обновлено: {value}"
     },
     "en": {
-        "menu.header": "CryonixSoft",
+        "menu.header": "LumeCore",
         "menu.title": "Session Checker Menu",
         "menu.start_process": "[1] Start Session Check",
         "menu.change_language": "[2] Change Language",
